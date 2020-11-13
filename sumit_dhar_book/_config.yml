@@ -1,0 +1,8 @@
+# in _config.yml
+title: "Python by Sumit Dhar"
+logo: C:/Users/DN/Pictures/pydata.jpg
+execute:
+  execute_notebooks: "off"
+  
+repository:
+  url: https://github.com/sdhar-pycourse/py-datascience-biz.git
